@@ -1,1 +1,1 @@
-print("sokol")
+print("oskol")
